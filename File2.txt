@@ -13,3 +13,11 @@ public int Mod(int a, int b){
 	return a%b;
 
 }
+
+#A00475804
+
+public int Multiply(int a, int b){
+
+	return Min - Math.max();
+
+}
