@@ -5,3 +5,11 @@ public double Division(int a, int b){
 	return a/b;
 
 }
+
+#A00475833
+
+public int Mod(int a, int b){
+
+	return a%b;
+
+}
